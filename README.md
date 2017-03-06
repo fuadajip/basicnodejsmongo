@@ -1,4 +1,4 @@
-# node-js-basic
+# node-js-mongo
 
 Make sure you have [Node.js](http://nodejs.org/).
 Check the version and your installation is successfully
@@ -12,7 +12,7 @@ $ node -v
 
 ```sh
 $ git clone https://github.com/fuadajip/basicnodejsmongo.git
-$ cd nodejsmongo
+$ cd basicnodejsmongo
 $ node [file].js
 ```
 
